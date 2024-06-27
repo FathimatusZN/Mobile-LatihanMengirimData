@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanMengirimData</string>
+    <string name="namalengkap">Nama Lengkap</string>
+    <string name="namapanggilan">Nama Panggilan</string>
+    <string name="npm">NPM</string>
+    <string name="alamat">Alamat</string>
+    <string name="move_with_data">Pindah Halaman</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tv_data_namalengkap"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/namalengkap"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp"
+        android:background="@drawable/bg_textview" />
+
+    <TextView
+        android:id="@+id/tv_data_namapanggilan"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/namapanggilan"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_textview"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/tv_data_npm"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/npm"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_textview"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/tv_data_alamat"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alamat"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_textview"
+        android:textSize="20sp"/>
+</LinearLayout>
